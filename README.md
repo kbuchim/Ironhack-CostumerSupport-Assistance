@@ -25,6 +25,7 @@ NLP (natural language processing) models
 Transformer
 NLTK (NaturaL Language Toolkit)
 API OpenAI (with my username)
+Streamlit
 
 
 
