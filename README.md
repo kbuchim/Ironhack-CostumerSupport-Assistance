@@ -4,19 +4,20 @@ Module 3 - Final project Machine Learning) - Assistance to Customer Support Depa
 Karina Büchi-  Data Analytics Part Time program | Barcelona April 2023
 
 
-Question
+# Question
+
 How does it seek to aid the customer support department in responding to client queries and issues effectively?
 
 
-Content
+# Content
+
 Project Description and Workflow
-Conclusions
-Organization
+
 Links
 
 
-Project Description:
-The Dataset:
+# Project Description:
+# The Dataset:
 
 
 We have our PDF with queries and issues complaint 
@@ -28,6 +29,6 @@ API OpenAI (with my username)
 
 
 
-References 
+# References 
 
 https://github.com/slavingia/askmybook/tree/7a1d3d53bad7841f3740c991c835765df3994cb2
