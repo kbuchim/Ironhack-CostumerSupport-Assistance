@@ -16,7 +16,7 @@ Project Description and Workflow
 Links
 
 
-# Project Description:
+# Project Description
 # The Dataset:
 
 
