@@ -1,5 +1,4 @@
-# Ironhack-projecto-final
-Assistance to Customer Support Department
+# Assistance to Customer Support Department
 Module 3 - Final project Machine Learning) - Assistance to Customer Support Department 
 
 Karina Büchi-  Data Analytics Part Time program | Barcelona April 2023
